@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Caolan Leatham-Orrell, a passionate technophile who loves diving into the world of Full Stack Development 🖥️, DevOps 🐳, and Data Science 📊.
+I'm Caolan Leatham-Orrell, a passionate technocrat who loves diving into the world of Full Stack Development 🖥️, DevOps 🐳, and Data Science 📊.
 
 ## What I'm up to 🌱
 
