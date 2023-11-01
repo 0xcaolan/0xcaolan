@@ -28,11 +28,6 @@ Feel free to reach out to me at caolan.leatham-orrell@tutanota.com
 Thanks for stopping by, and Happy Coding! 😄
 
 
-
-
-
-
-
 <!--
 **kryptokazz/kryptokazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
