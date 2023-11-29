@@ -6,7 +6,7 @@ I'm Caolan Leatham-Orrell, a passionate technocrat who loves diving into the wor
 ## What I'm up to 🌱
 
 Currently, I'm working on expanding my knowledge and skills in the following areas:
-- Full Stack Development 🔨: Building responsive web applications using HTML, CSS, JavaScript, and popular libraries/frameworks.
+- Full Stack Development 🔨: Building responsive web applications using HTML, CSS, JavaScript, and popular libraries like React and Express.
 - DevOps 🐳: Automating and optimizing system workflows through continuous integration, continuous delivery, and infrastructure as code.
 - Data Science 📊: Harnessing the power of data to extract insights, build predictive models, and make data-driven decisions.
 
