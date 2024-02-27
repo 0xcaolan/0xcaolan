@@ -12,7 +12,7 @@ My current endeavors center around:
 
 Here's a glimpse of my toolkit:
 
-- **Full Stack Web Development:** Proficient in technologies like Node.js, Express.js, React.js, MongoDB, PostgreSQL, and Golang for building robust and scalable web applications.
+- **Full Stack Web Development:** Proficient in technologies like Node.js, Express.js, React.js, MongoDB, PostgreSQL for building robust and scalable web applications.
 - **DevOps:** Skilled in Docker, Kubernetes, and AWS for streamlined and efficient application deployment and management in web environments.
 - **Data Science:** Experienced in using Python and its libraries for comprehensive data analysis and predictive modeling, with a focus on web-related datasets.
 
