@@ -25,3 +25,5 @@ Outside of coding, I'm an outdoor enthusiast and an avid reader, finding balance
 Have an idea or just want to say hi? Feel free to reach out at caolan.leatham-orrell@tutanota.com.
 
 Thanks for dropping by, and here's to building the future, one line of web code at a time! 😄
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kryptokazz)](https://git.io/streak-stats)
