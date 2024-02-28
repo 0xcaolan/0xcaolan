@@ -1,29 +1,37 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-I'm Caolan Leatham-Orrell, a technocrat fascinated by the potential of Full Stack Development 🖥️, DevOps 🐳, and Data Science 📊. I'm passionate about innovating and refining digital landscapes, particularly in web development.
+I'm a Full Stack Developer and Data Scientist with a strong grasp of physics and mathematics. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.
 
-## What I'm Up To 🌱
+## 🚀 Technologies
 
-My current endeavors center around:
+### Web Development
+- JavaScript (Node.js, Express)
+- HTML, CSS (Tailwind CSS)
+- React, Vue.js
+- TypeScript
+- Go
 
-- **Data-Driven Web Projects:** Leveraging data to inform decisions and drive innovation in web development. From analyzing user behavior to predictive modeling, I aim to extract actionable insights and solve real-world problems.
+### Databases
+- PostgreSQL
+- MongoDB
 
-## Skills and Tools 🧰
+### Data Science
+- Python (NumPy, Pandas, Matplotlib)
+- scikit-learn, fast.ai
+- PyTorch
 
-Here's a glimpse of my toolkit:
+### Other Tools
+- Linux (x86, ARM, RISC)
+- C++, Haskell (Learning)
+- Rust (Future Learning)
+- OpenGL, SDL
 
-- **Full Stack Web Development:** Proficient in technologies like Node.js, Express.js, React.js, MongoDB, PostgreSQL for building robust and scalable web applications.
-- **DevOps:** Skilled in Docker, Kubernetes, and AWS for streamlined and efficient application deployment and management in web environments.
-- **Data Science:** Experienced in using Python and its libraries for comprehensive data analysis and predictive modeling, with a focus on web-related datasets.
+## 📚 Background
+My mathematics background includes a solid understanding of linear algebra, calculus, and college-level classical physics. This knowledge enables me to apply concepts effectively in domains like machine learning, low-level programming, and functional programming.
 
-## Beyond the Keyboard 🌲
+## 🌱 Future Plans
+I'm passionate about exploring functional programming paradigms, particularly in Haskell, and delving deeper into trendy languages like Rust. Additionally, I aspire to create my own programming language and gain expertise in crafting interpreters and compilers.
 
-Outside of coding, I'm an outdoor enthusiast and an avid reader, finding balance and inspiration in nature and literature.
+## 📫 Let's Connect
+Feel free to reach out to me via [email](mailto:caolan.leatham-orrell@tutanota.com) 
 
-## Let's Connect 📬
-
-Have an idea or just want to say hi? Feel free to reach out at caolan.leatham-orrell@tutanota.com.
-
-Thanks for dropping by, and here's to building the future, one line of web code at a time! 😄
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kryptokazz)](https://git.io/streak-stats)
