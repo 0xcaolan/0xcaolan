@@ -1,6 +1,8 @@
-# Hello, I'm [Your Name] 👋
+  # Hello, I'm Caolan Leatham-Orrell 👋
 
 I'm a Full Stack Developer and Data Scientist with a strong grasp of physics and mathematics. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kryptokazz)](https://git.io/streak-stats)
 
 ## 🚀 Technologies
 
@@ -34,4 +36,29 @@ I'm passionate about exploring functional programming paradigms, particularly in
 
 ## 📫 Let's Connect
 Feel free to reach out to me via [email](mailto:caolan.leatham-orrell@tutanota.com) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
