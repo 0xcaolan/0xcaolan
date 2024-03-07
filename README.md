@@ -25,9 +25,9 @@
 </div>
 
 
-<h2 align="center" >My philosophy for learning is breadth first as this is what modern learning science suggests as you form longer lasting memories when you tie concepts together. 
- For example data scientists are often not the best at coding UI as they mostly focus on building models but many positions require making a good GUI application for users or people who can't code that want to use tools, these tools also need to be tested and run on other users computers so this is also why it's useful to apply knowledge of deveops. I believe understanding the full life cycle of an application allows for a more holistic approach to learning. </h2>  
+## Personal Philosophy 
 
+My philosophy for learning is breadth first as this is what modern learning science suggests as you form longer lasting memories when you tie concepts together. For example data scientists are often not the best at coding UI as they mostly focus on building models but many positions require making a good GUI application for users or people who can't code that want to use tools, these tools also need to be tested and run on other users computers so this is also why it's useful to apply knowledge of deveops. I believe understanding the full life cycle of an application allows for a more holistic approach to learning. This is why it may seem I have many skills but the goal is to have an integrated learn I'm still very much a specialist. 
 
 ### Web Development
 - JavaScript (Node.js, Express)
