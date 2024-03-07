@@ -3,9 +3,16 @@
 I'm a Front End Developer, who's also knowledgeable in Data Science and DevOps. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.
 
 - 🔭 I’m currently working on [VimChat](https://github.com/kryptokazz/VimChat) and [FreeCallApp](https://github.com/kryptokazz/FreeCallApp)
+  
+<div style="display: flex; justify-content: space-between;">
+    <img style="margin-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kryptokazz&show_icons=true&locale=en&layout=compact" alt="kryptokazz" />
+    <img style="margin-right: 10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kryptokazz&" alt="kryptokazz"" alt="kryptokazz" />
+</div>
+
+  
 
 
-<p align="left">
+
 
 ## Web Technologies
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
