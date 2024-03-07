@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Caolan Leatham-Orrell</h1>
-<h3 align="center">I'm a Full Stack Developer and Data Scientist with a strong grasp of physics and mathematics. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.</h3>
+<h3 align="center">I'm a Front End Developer, who's also knowledgeble in Data Scientist and Devops with a strong grasp of physics and mathematics. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.</h3>
 
-- 🔭 I’m currently working on [VimChat](https://github.com/kryptokazz/VimChat)
+<h3 align="center" >My philosophy for learning is breadth first as this is what modern learning science suggests as you form longer lasting memories when you tie concepts together. 
+ For example data scientists are often not the best at coding UI as they mostly focus on building models but many positions require making a good GUI application for users or people who can't code that want to use tools, these tools also need to be tested and run on other users computers so this is also why it's useful to apply knowledge of deveops. I believe understanding the full life cycle of an application allows for a more holistic approach to learning. </h3>  
+
+- 🔭 I’m currently working on [VimChat](https://github.com/kryptokazz/VimChat) and [FreeCallApp](https://github.com/kryptokazz/FreeCallApp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
