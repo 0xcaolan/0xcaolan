@@ -5,8 +5,8 @@ I'm a Front End Developer, who's also knowledgeable in Data Science and DevOps. 
 - 🔭 I’m currently working on [VimChat](https://github.com/kryptokazz/VimChat) and [FreeCallApp](https://github.com/kryptokazz/FreeCallApp)
   
 <div style="display: flex; justify-content: space-between;">
-    <img style="margin-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kryptokazz&show_icons=true&locale=en&layout=compact" alt="kryptokazz" />
-    <img style="margin-right: 10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kryptokazz&" alt="kryptokazz"" alt="kryptokazz" />
+    <img style="margin-right: 10px; width: 400px; height: 200px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kryptokazz&show_icons=true&locale=en&layout=compact" alt="kryptokazz" />
+    <img style="margin-right: 10px; width: 400px; height: 200px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kryptokazz&" alt="kryptokazz" />
 </div>
 
   
