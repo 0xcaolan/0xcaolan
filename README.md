@@ -44,17 +44,16 @@ I'm a Front End Developer, who's also knowledgeable in Data Science and DevOps. 
 
 </p>
 
-## Personal Philosophy 
+<h2>Personal Philosophy, Background, and Future Plans</h2>
 
-My philosophy for learning is breadth first as this is what modern learning science suggests as you form longer-lasting memories when you tie concepts together. For example, data scientists are often not the best at coding UI as they mostly focus on building models, but many positions require making a good GUI application for users or people who can't code that want to use tools. These tools also need to be tested and run on other users' computers so this is also why it's useful to apply knowledge of DevOps. I believe understanding the full life cycle of an application allows for a more holistic approach to learning. This is why it may seem I have many skills, but the goal is to have an integrated learn I'm still very much a specialist.
+<p>My philosophy for learning is breadth first, aligning with modern learning science, which suggests that tying concepts together forms longer-lasting memories. For instance, while data scientists primarily focus on building models, many positions require developing user-friendly GUI applications, emphasizing the importance of coding UI and applying knowledge of DevOps for testing and deployment.</p>
 
-## Background
+<p>I believe that understanding the full life cycle of an application fosters a holistic approach to learning. While I possess a diverse skill set, my goal is to integrate these skills while maintaining specialization.</p>
 
-My mathematics background includes a solid understanding of linear algebra, calculus, and college-level classical physics. This knowledge enables me to apply concepts effectively in domains like machine learning, low-level programming, and functional programming.
+<p>Other than programming I have a strong grasp of mathematics namely linear algebra, calculus, and college-level classical physics. This knowledge enables me to apply concepts effectively in domains like machine learning, low-level programming, and functional programming.</p>
 
-## Future Plans
+<p>In the future, I'm passionate about exploring functional programming paradigms, particularly in Haskell, and delving deeper into trendy languages like Rust.</p>
 
-I'm passionate about exploring functional programming paradigms, particularly in Haskell, and delving deeper into trendy languages like Rust. Additionally, I aspire to create my own programming language and gain expertise in crafting interpreters and compilers.
 
 ## Let's Connect
 
