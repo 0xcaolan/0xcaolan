@@ -52,7 +52,7 @@ I'm a Front End Developer, who's also knowledgeable in Data Science and DevOps. 
 
 <h2>Personal Philosophy, Background, and Future Plans</h2>
 
-<p>My philosophy for learning is breadth first, aligning with modern learning science, which suggests that tying concepts together forms longer-lasting memories. For instance, while data scientists primarily focus on building models, many positions require developing user-friendly GUI applications, emphasizing the importance of coding UI and applying knowledge of DevOps for testing and deployment.</p>
+<p>My philosophy for learning is breadth first, aligning with evidence based neuroscience science, which suggests that increasing complexity can actually counter intuitively allow for formation of longer-lasting memories. For instance, while data scientists primarily focus on building models, many positions require developing user-friendly GUI applications, emphasizing the importance of coding UI and applying knowledge of DevOps for testing and deployment.</p>
 
 <p>I believe that understanding the full life cycle of an application fosters a holistic approach to learning. While I possess a diverse skill set, my goal is to integrate these skills while maintaining specialization.</p>
 
