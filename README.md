@@ -58,7 +58,7 @@ I'm a Front End Developer, who's also knowledgeable in Data Science and DevOps. 
 
 <p>Other than programming I have a strong grasp of mathematics namely linear algebra, calculus, and college-level classical physics. This knowledge enables me to apply concepts effectively in domains like machine learning, low-level programming, and functional programming.</p>
 
-<p>In the future, I'm passionate about exploring functional programming paradigms, particularly in Haskell, and delving deeper into trendy languages like Rust.</p>
+<p>In the future, I'm passionate about exploring functional programming paradigms, particularly in Haskell, and delving deeper into trendy languages like Rust and Zig.</p>
 
 
 ## Let's Connect
