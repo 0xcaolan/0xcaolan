@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caolan Leatham-Orrell</h1>
 
-I'm a Full stack engineerin, who's also knowledgeable in AI/ML and Systems Engineering. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.
+I'm a Full stack engineer, who's also knowledgeable in AI/ML and Systems Engineering. I enjoy crafting elegant solutions and exploring the intersection of technology, design, and user experience.
 
 
   
