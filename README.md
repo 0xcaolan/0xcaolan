@@ -22,4 +22,3 @@ Have an idea or just want to say hi? Feel free to reach out at caolan.leatham-or
 
 Thanks for dropping by, and here's to building the future, one line of web code at a time! 😄
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kryptokazz)](https://git.io/streak-stats)
