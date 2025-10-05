@@ -6,7 +6,7 @@ I am a Full Stack Engineer specializing in engineering elegant, scalable, and re
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xcaolan&show_icons=true&locale=en&layout=compact" alt="0xcaolan's Top Languages" width="400px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kryptokazz&" alt="kryptokazz's GitHub Streak" width="400px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcaolan&" alt="0xcaolan's GitHub Streak" width="400px" />
 </div>
 
 Web Technologies
