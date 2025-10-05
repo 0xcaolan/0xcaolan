@@ -1,24 +1,65 @@
-### Hi there 👋
+# Caolan Leatham‑Orrell
 
-I'm Caolan Leatham-Orrell, a technocrat fascinated by the potential of Full Stack Development 🖥️, DevOps 🐳, and Data Science 📊. I'm passionate about innovating and refining digital landscapes, particularly in web development.
+Modern Web Developer for SMBs — Next.js • Tailwind CSS • GSAP
 
-## What I'm Up To 🌱
+I build fast, accessible, SEO‑ready websites and web apps that help small and medium‑sized businesses convert better and scale with confidence. I emphasize modern web development and best practices—performance, accessibility, clean architecture, and maintainability—so teams can ship quickly and iterate safely.
 
-My current endeavors center around:
+- Open to: Frontend/Full‑Stack roles and client projects (SMB focus)
+- Contact: caolan.leatham-orrell@tutanota.com
 
-- **Data-Driven Web Projects:** Leveraging data to inform decisions and drive innovation in web development. From analyzing user behavior to predictive modeling, I aim to extract actionable insights and solve real-world problems.
+---
 
-## Skills and Tools 🧰
+## Core strengths
 
-Here's a glimpse of my toolkit:
+- Modern web fundamentals: responsive UI, a11y (WCAG), Core Web Vitals, SEO
+- Motion with purpose: GSAP/Framer motion that improves UX and brand recall
+- Production‑ready Next.js: SSR/SSG/ISR, caching, server actions, RSC
+- Maintainable systems: clear component architecture, DX, testing, CI/CD
+- Business impact: conversion‑oriented builds, analytics, and rapid iteration
 
-- **Full Stack Web Development:** Proficient in technologies like Node.js, Express.js, React.js, MongoDB, PostgreSQL for building robust and scalable web applications.
-- **DevOps:** Skilled in Docker, Kubernetes, and AWS for streamlined and efficient application deployment and management in web environments.
-- **Data Science:** Experienced in using Python and its libraries for comprehensive data analysis and predictive modeling, with a focus on web-related datasets.
+## Tech stack
 
-## Let's Connect 📬
+- Frameworks: Next.js (App Router), React, TypeScript
+- Styling/UI: Tailwind CSS, CSS Modules, Radix UI/Headless UI
+- Animation: GSAP, Framer Motion
+- Data/API: Next.js Route Handlers/Server Actions, Node.js; Prisma; PostgreSQL/Supabase; REST/JSON
+- Auth & Users: NextAuth.js, JWT
+- Analytics & SEO: Vercel Analytics, Plausible/GA4, sitemap/robots, structured data
+- Tooling/Quality: ESLint, Prettier, Husky, GitHub Actions, Jest/RTL, Playwright/Cypress
+- Infra/Deploy: Vercel (primary), Netlify/AWS when needed
 
-Have an idea or just want to say hi? Feel free to reach out at caolan.leatham-orrell@tutanota.com.
+## What I deliver for SMBs
 
-Thanks for dropping by, and here's to building the future, one line of web code at a time! 😄
+- High‑performance marketing sites and product pages with polished motion
+- Content‑driven sites with headless CMS for non‑technical editing
+- Lightweight web apps/dashboards using modern React patterns
+- SEO and performance tuning (Core Web Vitals, Lighthouse 90+ targets)
+- Clean, documented codebases that small teams can own and extend
+- Integrations: forms, email, analytics, payments (Stripe), CRM/webhooks
 
+## Selected work themes
+
+- Animated brand experiences: Next.js + GSAP for performant, on‑brand motion
+- Content workflows: headless CMS + role‑based editing, preview, drafts
+- Conversion tooling: AB‑testable components, event tracking, dashboards
+- Deployment pipelines: one‑click previews, checks, and safe rollouts on Vercel
+
+Tip: Check my pinned repositories below for examples of recent work.
+
+## Currently exploring
+
+- Next.js App Router best practices (server actions, caching, RSC boundaries)
+- Design systems with Tailwind + Radix and accessible component patterns
+- Performance budgets and animation strategies that preserve CWV
+
+## Quick links
+
+- Email: caolan.leatham-orrell@tutanota.com
+- GitHub: https://github.com/0xcaolan
+
+---
+
+## GitHub at a glance
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xcaolan&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaolan&layout=compact&theme=dracula)
