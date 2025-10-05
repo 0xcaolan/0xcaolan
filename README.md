@@ -5,20 +5,10 @@ I am a Full Stack Engineer specializing in engineering elegant, scalable, and re
 <!-- GitHub Stats and Streak -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kryptokazz&show_icons=true&locale=en&layout=compact" alt="kryptokazz's Top Languages" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xcaolan&show_icons=true&locale=en&layout=compact" alt="0xcaolan's Top Languages" width="400px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryptokazz&" alt="kryptokazz's GitHub Streak" width="400px" />
 </div>
-Core Engineering Approach
 
-My methodology is rooted in a holistic view of the application lifecycle. I specialize in bridging the gap between front-end user experience and back-end scalability, ensuring that all solutions are rigorously tested, efficiently deployed, and architecturally sound.
-
-    Systems Rigor: I bring a deep, multi-disciplinary understanding that ensures technical decisions account for performance, security, and long-term maintenance.
-
-    Data Science Proficiency: My experience covers the development and integration of AI/ML models, utilizing tools like PyTorch and Scikit-learn to deliver intelligent features.
-
-    Mathematical Foundation: A solid grasp of linear algebra, calculus, and classical physics informs my work in optimization, low-level programming, and functional paradigms, allowing for more precise and performant engineering.
-
-Technical Stack & Expertise
 Web Technologies
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
