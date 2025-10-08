@@ -1,6 +1,6 @@
 # Caolan Leatham‑Orrell
 
-Modern Web Developer for SMBs — Next.js • Tailwind CSS • GSAP
+Modern Web Developer for SMBs — React • Next.js • Tailwind CSS • GSAP
 
 ## Summary
 - Roles: Frontend / Full‑Stack (SMB focus)
